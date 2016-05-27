@@ -13,7 +13,6 @@ using std::setw;
 // Гарантирует, что объекты создаются в согласованном состоянии.
 Time::Time( int hr, int min, int sec )
 {
-	cout << "created new object of Time class!\n" << endl;
 	setTime( hr, min, sec ); // проверить и установить время
 } // конец конструктора Time
 
