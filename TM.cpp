@@ -41,7 +41,7 @@ int main()
 	t5.printStandard(); // 12:00:00 AM
 	cout << endl;
 
-	cout << endl << "Time is over!" << endl;
+	cout << "Time is over!" << endl;
 
 	system("pause");
 	return 0;
