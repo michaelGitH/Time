@@ -1,0 +1,8 @@
+print("Hello world!;");
+var i;
+var j;
+j = 23;
+print("Hello my dear friend!");
+print("HI!");
+char abc = prompt("What's your name?");
+print("new language is good!");
